@@ -1,0 +1,1165 @@
+{
+ "Callisto": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Valhalla"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "biomes.png",
+   "colour.dds"
+  ]
+ },
+ "Ceres": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Occator Crater"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "biomes.png",
+   "colour.dds"
+  ]
+ },
+ "Charon": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Mordor Macula"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "biomes.png",
+   "colour.dds"
+  ]
+ },
+ "Earth": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "Oceans"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "Shallows"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Trenches"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Ice Sheets"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Mountains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Highlands"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Deserts"
+   },
+   {
+    "colour": [
+     150,
+     160,
+     170
+    ],
+    "name": "Tundra"
+   },
+   {
+    "colour": [
+     0,
+     120,
+     0
+    ],
+    "name": "Forests"
+   },
+   {
+    "colour": [
+     0,
+     210,
+     60
+    ],
+    "name": "Rainforests"
+   },
+   {
+    "colour": [
+     170,
+     230,
+     90
+    ],
+    "name": "Grasslands"
+   },
+   {
+    "colour": [
+     255,
+     0,
+     0
+    ],
+    "name": "Shores"
+   }
+  ],
+  "height": {
+   "deformity": 17780.8,
+   "offset": -10557.9
+  },
+  "textures": [
+   "biomes.png",
+   "colour.dds",
+   "height.dds",
+   "normals.dds"
+  ]
+ },
+ "Enceladus": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "Tiger Stripes"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "colour.dds"
+  ]
+ },
+ "Europa": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Conamara Chaos"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "colour.dds"
+  ]
+ },
+ "Ganymede": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Galileo Regio"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "biomes.png",
+   "colour.dds"
+  ]
+ },
+ "Io": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Loki Patera"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Pele"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "biomes.png",
+   "colour.dds"
+  ]
+ },
+ "Jupiter": {
+  "textures": [
+   "colour.dds",
+   "rim.dds"
+  ]
+ },
+ "Mars": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Polar Cap"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Polar Cap"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Olympus Mons"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Valles Marineris"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Hellas Planitia"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Argyre Planitia"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Tharsis"
+   },
+   {
+    "colour": [
+     150,
+     160,
+     170
+    ],
+    "name": "Northern Lowlands"
+   },
+   {
+    "colour": [
+     0,
+     120,
+     0
+    ],
+    "name": "Highlands"
+   }
+  ],
+  "height": {
+   "deformity": 29348.0,
+   "offset": -8177.0
+  },
+  "textures": [
+   "biomes.png",
+   "colour.dds",
+   "height.dds",
+   "normals.dds"
+  ]
+ },
+ "Mercury": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Caloris Basin"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Lowlands"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Midlands"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Highlands"
+   }
+  ],
+  "height": {
+   "deformity": 19675.8,
+   "offset": -10744.1
+  },
+  "textures": [
+   "biomes.png",
+   "colour.dds",
+   "height.dds",
+   "normals.dds"
+  ]
+ },
+ "Moon": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Oceanus Procellarum"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Mare Imbrium"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Mare Serenitatis"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Mare Tranquillitatis"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Mare Crisium"
+   },
+   {
+    "colour": [
+     150,
+     160,
+     170
+    ],
+    "name": "Mare Fecunditatis"
+   },
+   {
+    "colour": [
+     0,
+     120,
+     0
+    ],
+    "name": "Mare Nectaris"
+   },
+   {
+    "colour": [
+     0,
+     210,
+     60
+    ],
+    "name": "Mare Nubium"
+   },
+   {
+    "colour": [
+     170,
+     230,
+     90
+    ],
+    "name": "Mare Humorum"
+   },
+   {
+    "colour": [
+     255,
+     0,
+     0
+    ],
+    "name": "Mare Frigoris"
+   },
+   {
+    "colour": [
+     255,
+     0,
+     255
+    ],
+    "name": "Mare Orientale"
+   },
+   {
+    "colour": [
+     120,
+     0,
+     160
+    ],
+    "name": "Mare Moscoviense"
+   },
+   {
+    "colour": [
+     255,
+     128,
+     0
+    ],
+    "name": "Lesser Maria"
+   },
+   {
+    "colour": [
+     0,
+     128,
+     128
+    ],
+    "name": "South Pole-Aitken Basin"
+   },
+   {
+    "colour": [
+     128,
+     128,
+     0
+    ],
+    "name": "Near Side Highlands"
+   },
+   {
+    "colour": [
+     64,
+     64,
+     64
+    ],
+    "name": "Far Side Highlands"
+   }
+  ],
+  "height": {
+   "deformity": 19667.0,
+   "offset": -8981.5
+  },
+  "textures": [
+   "biomes.png",
+   "colour.dds",
+   "height.dds",
+   "normals.dds"
+  ]
+ },
+ "Neptune": {
+  "drawn": [
+   "colour.dds"
+  ],
+  "textures": [
+   "colour.dds",
+   "rim.dds"
+  ]
+ },
+ "Phobos": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Stickney Crater"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "biomes.png",
+   "colour.dds"
+  ]
+ },
+ "Pluto": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Sputnik Planitia"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Cthulhu Macula"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "colour.dds"
+  ]
+ },
+ "Saturn": {
+  "drawn": [
+   "colour.dds"
+  ],
+  "rings": {
+   "inner_km": 66900.0,
+   "outer_km": 141000.0
+  },
+  "textures": [
+   "colour.dds",
+   "rim.dds",
+   "rings.dds"
+  ]
+ },
+ "Titan": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Xanadu"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Kraken Mare"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Ligeia Mare"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     150,
+     160,
+     170
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "drawn": [
+   "clouds.dds"
+  ],
+  "textures": [
+   "biomes.png",
+   "clouds.dds",
+   "colour.dds",
+   "rim.dds"
+  ]
+ },
+ "Triton": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Dark Terrain"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Plains"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Bright Terrain"
+   }
+  ],
+  "textures": [
+   "colour.dds"
+  ]
+ },
+ "Uranus": {
+  "drawn": [
+   "colour.dds"
+  ],
+  "textures": [
+   "colour.dds",
+   "rim.dds"
+  ]
+ },
+ "Venus": {
+  "biomes": [
+   {
+    "colour": [
+     0,
+     0,
+     255
+    ],
+    "name": "North Pole"
+   },
+   {
+    "colour": [
+     0,
+     255,
+     255
+    ],
+    "name": "South Pole"
+   },
+   {
+    "colour": [
+     0,
+     0,
+     110
+    ],
+    "name": "Maxwell Montes"
+   },
+   {
+    "colour": [
+     255,
+     255,
+     255
+    ],
+    "name": "Ishtar Terra"
+   },
+   {
+    "colour": [
+     130,
+     70,
+     20
+    ],
+    "name": "Lowlands"
+   },
+   {
+    "colour": [
+     190,
+     140,
+     60
+    ],
+    "name": "Midlands"
+   },
+   {
+    "colour": [
+     255,
+     220,
+     0
+    ],
+    "name": "Highlands"
+   }
+  ],
+  "drawn": [
+   "clouds.dds",
+   "colour.dds"
+  ],
+  "height": {
+   "deformity": 14421.8,
+   "offset": -2886.0
+  },
+  "textures": [
+   "biomes.png",
+   "clouds.dds",
+   "colour.dds",
+   "height.dds",
+   "normals.dds",
+   "rim.dds"
+  ]
+ }
+}

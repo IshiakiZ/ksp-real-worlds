@@ -1,0 +1,37 @@
+Real Worlds @VERSION@
+for Kerbal Space Program 1.12.x
+
+The real Solar System at its real size, from NASA's and JPL's figures and maps: 22 worlds
+at their measured sizes, masses, spins and orbits, their ground from spacecraft maps, their
+air from measured profiles, biomes from the maps, real dates and faster time warp.
+
+IT REPLACES EVERY WORLD
+  Start a new save for it. Craft in a save made without it were made for Kerbin's worlds
+  and may be lost (an orbit 100 km above Kerbin lies deep inside Earth). If you load one,
+  Real Worlds keeps a copy of it as it was beside it, and says where.
+
+INSTALL
+  This mod needs Keystone and Kopernicus, and what Kopernicus needs (ModularFlightIntegrator,
+  KSPTextureLoader and Harmony), which are separate downloads:
+    https://spacedock.info/mod/4665/Keystone
+    https://github.com/Kopernicus/Kopernicus/releases (it comes with the others it needs)
+  Copy their folders into your KSP's GameData folder, and the RealWorlds folder from this
+  download beside them, and start the game. To remove it, delete the RealWorlds folder (and
+  go back to saves made without it).
+
+USE
+  Reaching low Earth orbit takes about 9.4 km/s: the stock rockets were made for Kerbin, so
+  a rocket for Earth is far larger, or comes from a parts mod. The clock shows the real date
+  (UTC) and time warp goes to 10,000,000 times; both can be switched off in the Keystone
+  window: the keystone button on the game's toolbar, or Option-K on a Mac and Alt-K elsewhere.
+  Where Scatterer is installed, its skies are set for the real worlds; EVE's stock clouds, made
+  for Kerbin's worlds, are taken off them.
+
+WHERE IT WORKS
+  Made and tried on a Mac. On Windows it is the same configs and code, but nobody has run it
+  there yet. Nobody has run it on Linux yet.
+
+The maps it is made from are NASA's, NOAA's and the USGS's, free to use with credit; each
+is credited on the mod's pages.
+
+Everything else: https://github.com/IshiakiZ/ksp-real-worlds
