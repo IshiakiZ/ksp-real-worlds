@@ -4,6 +4,8 @@ The real Solar System at its real size, from NASA's and JPL's figures and maps.
 
 ![A rocket firing its engines before Saturn and its rings](src/RealWorlds/img/real-worlds-saturn.jpg)
 
+![Twenty of the worlds, one after another, from Mercury to Charon](src/RealWorlds/img/real-worlds-tour.gif)
+
 For Kerbal Space Program 1.12.x. **Needs [Keystone](https://github.com/IshiakiZ/ksp-keystone)** ([on SpaceDock](https://spacedock.info/mod/4665/Keystone)),
 **[Kopernicus](https://github.com/Kopernicus/Kopernicus)** with what it needs (ModularFlightIntegrator, KSPTextureLoader,
 Harmony), all separate downloads.
